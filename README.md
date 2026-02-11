@@ -6,6 +6,7 @@ Git Master: [Kevin Ray] ([punnpunn11])\
 Design Lead: [Taya Dickens] ([t-soleil])\
 
 # About Our Website
+This is a fork of a group project completed for CSC 3380.
 Our project, Impressions Audio, is a music streaming website that combines personalized music discovery with a social media presence. Users can register and log in securely through an authentication system with password hashing. Once a user is logged in, they can continue to explore music content through YouTube for lyric and music video playback. Users can also post to the Feed page about a concert they've previously attended, and use Ticketmaster on the Concerts Page for purchasing and discovering upcoming concerts and events. Our platform includes a variety of interactive features created to enhance the user's experience. Some of the features include a:
 
 1. Search Bar: For watching music videos and searching for your favorite songs and artists.
